@@ -1,0 +1,70 @@
+* {
+  background-color: blue;
+}
+.main {
+  position: absolute;
+  top: 15%;
+  left: 25%;
+  width: 600px;
+  height: 300px;
+  background-color: rgb(8, 230, 20);
+  border: 5px solid rgb(255, 255, 255);
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.white {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 300px;
+  background-color: white;
+}
+.moon {
+  position: absolute;
+  top: 18%;
+  left: 45%;
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+  transform: rotate(-30deg);
+}
+.moon2 {
+  position: absolute;
+  top: 12%;
+  left: 49%;
+  width: 200px;
+  height: 209px;
+  background-color: rgb(8, 230, 20);
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+  transform: rotate(-30deg);
+}
+/* .star {
+  height: 0;
+  width: 0;
+  position: absolute;
+  left: 55%;
+  top: 30%;
+  background-color: white;
+  border-right: 50px solid yellowgreen;
+  border-left: 50px solid yellowgreen;
+  border-bottom: 100px solid white;
+}
+.star2 {
+  height: 0;
+  width: 0;
+  position: absolute;
+  left: 55%;
+  top: 20%;
+  background-color: rgb(255, 255, 255);
+  border-top: 100px solid white;
+  border-right: 50px solid yellowgreen;
+  border-left: 50px solid yellowgreen;
+  z-index: -1;
+} */
+
+/* #################################### */
